@@ -1,3 +1,3 @@
 # doldrumszz.github.com
-Welcome to the doldrums
-Work In Progress Website
+Welcome to the dolrums. This is a work in progress website
+# :)
