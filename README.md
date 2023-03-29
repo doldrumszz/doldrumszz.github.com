@@ -1,5 +1,6 @@
 # Welcome to The Doldrums
 This is a work in progress website
+theme: jekyll-theme-minimal
 
 
 
